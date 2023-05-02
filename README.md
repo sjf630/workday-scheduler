@@ -8,4 +8,4 @@ Future activities will appear green.
 
 Day Planner ![homePage.img](./assets/B254A51C-1158-48AF-82B7-ECF2BC3932B5_1_201_a.jpeg)
 
-URL: 
+URL: https://sjf630.github.io/workday-scheduler/
